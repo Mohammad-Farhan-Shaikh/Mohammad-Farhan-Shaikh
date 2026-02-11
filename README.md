@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm [Mohammad Farhan Shaikh]</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Farhan Shaikh</h1>
 <h3 align="center">Aspiring Software Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Mohammad-Farhan-Shaikh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -48,15 +48,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Farhan-Shaikh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Farha-Shaikh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Mohammad-Farhan-Shaikh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Farhan-shaikh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Farhan-Shaikh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -64,7 +64,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Farhan-shaikh&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Farhan-Shaikh&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Farhan-Shaikh&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -105,5 +105,5 @@ const currentLearning = {
 </p>
 
 <p align="center">
-  <i>⭐️ From [yourusername](https://github.com/Mohammad-Farhan-shaikh/)</i>
+  <i>⭐️ From (https://github.com/Mohammad-Farhan-shaikh/)</i>
 </p>
